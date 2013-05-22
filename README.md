@@ -3,6 +3,8 @@ arcOrama-Velib
 
 Scripts, code et apps d'intégration des opendata Velib dans ArcGIS
 
+Lien vers l'article arcOrama http://www.arcorama.fr/2013/05/integration-arcgis-opendatavelib-1.html
+
 .....................................
 velib_arcgis_online.py
 .....................................
