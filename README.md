@@ -5,6 +5,8 @@ Scripts, code et apps d'intégration des opendata Velib dans ArcGIS
 
 Lien vers l'article arcOrama http://www.arcorama.fr/2013/05/integration-arcgis-opendatavelib-1.html
 
+lien vers la carte : http://esrifrance.maps.arcgis.com/apps/Solutions/s1.html?appid=444d541ef8bb4e2c9cef54640799996e
+
 .....................................
 velib_arcgis_online.py
 .....................................
